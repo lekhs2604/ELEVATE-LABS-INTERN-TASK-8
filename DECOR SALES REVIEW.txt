@@ -1,0 +1,7 @@
+DECOR SALES DASHBOARD
+
+INSIGHTS OF THE SALES:
+1. West Bakersfield had high profit in May for Furniture.
+2. Amarillo has low quantity and low discount.
+3. Technology product are low slide between each month.
+4. It has 0.17k sales.  
